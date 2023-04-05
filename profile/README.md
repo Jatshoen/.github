@@ -1,12 +1,8 @@
-## Hi there 👋
+## Welcome to Jatshoen!
 
-<!--
+Jatshoen is an non-profit organization striving to empower Bhutanese startups and local businesses through effective IT solutions. Our mission is to connect the Bhutanese community by developing software that improves access to information, resources, and opportunities. 
 
-**Here are some ideas to get you started:**
+We are a dedicated community of software developers and data scientists that want to apply our skillset towards a rapidly growing Bhutan. Our work is fully pro bono; we are driven by our visions for creating a positive difference in Bhutan. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are actively looking for anyone who would like to be a part of our mission. If you are interested in joining Jatshoen, please email jatshoen@gmail.com.
+
