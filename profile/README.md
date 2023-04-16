@@ -14,7 +14,7 @@ We are actively looking for anyone who would like to be a part of our mission. W
 * Graphic designer
 * Social media & communications chair
 
-If you are interested in joining Jatshoen, please email jatshoen@gmail.com or fill out our [interest form](https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fq4G26s5eP9sR42iAA&e=AT04xKb8cJejTrIGyCweEUT8_rzlsM4TAWMj0mQTKYWdEiWWmhXowUnuFqQVhPdE5Qi7yN5MrbkDGG-BagAR_8001vGzJA_v05htqtGjJyOWyPoUNH3ghNA).
+If you are interested in joining Jatshoen, please email jatshoen@gmail.com or fill out our [interest form](https://forms.gle/2c5VAa8ENwcfFEGE7).
 
 ### Project Panel
 Here are the projects we are currently working on...
