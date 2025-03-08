@@ -6,15 +6,16 @@ We are a dedicated community of software developers and data scientists that wan
 
 We are actively looking for anyone who would like to be a part of our mission. We are specifically looking for anyone with experience in the following positions:
 
-* Front-end software developer
-* Back-end software developer
-* Data Science
-* Security and database management
-* Web UI UX
-* Graphic designer
-* Social media & communications chair
+* Software Engineer Fellow:
+  * Front-end software engineer
+  * Back-end software engineer
+  * Full-stack software engineer
+* UI UX Fellow
+* Graphic designer Fellow
+* Social media & communications Fellow
 
-If you are interested in joining Jatshoen, please email jatshoen@gmail.com or fill out our [interest form](https://forms.gle/2c5VAa8ENwcfFEGE7).
+If you are interested in joining Jatshoen or have any questions, please email jatshoen@gmail.com or wangdrak.dorji@gmail.com or akira.nair@pennmedicine.upenn.edu.
+If interested in joining, please fill out [interest form](https://forms.gle/2c5VAa8ENwcfFEGE7).
 
 ### Project Panel
 Here are the projects we are currently working on...
